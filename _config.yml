@@ -1,7 +1,7 @@
 name: Fragments of the Great South Road
 favicon: null
-layout_spectrum: 0.6466208188794553
-typography_spectrum: 0.4912802567705512
+layout_spectrum: 0.99626
+typography_spectrum: 0.25374
 title: DOCUMENTARY FILM AND ARTWORK IN MOTION
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.19304331485182047
-  lightness: 0.5375466595869511
+  brandStrength: 0.25
+  lightness: 0.3125
   saturation: 0.460501509020105
-  rhythmicContrast: 0.7749215331859887
+  rhythmicContrast: 0.5
 purpose: []
