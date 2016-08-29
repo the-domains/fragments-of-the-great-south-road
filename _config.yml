@@ -1,20 +1,4 @@
-name: Fragments of the Great South Road
-favicon: null
-layout_spectrum: 0.99626
 typography_spectrum: 0.25029
-title: DOCUMENTARY ARTWORK
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -26,4 +10,20 @@ color:
   lightness: 0.3125
   saturation: 0.460501509020105
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.99626
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Fragments of the Great South Road
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: DOCUMENTARY ARTWORK
 purpose: []
