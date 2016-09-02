@@ -1,4 +1,21 @@
+name: Ghost South Road
+favicon: null
+layout_spectrum: 0.99626
 typography_spectrum: 0.25029
+title: GHOST SOUTH ROAD
+description: ''
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -10,21 +27,4 @@ color:
   lightness: 0.3125
   saturation: 0.460501509020105
   rhythmicContrast: 0.5
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.99626
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: Ghost South Road
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: GHOST SOUTH ROAD
-description: ''
 purpose: []
