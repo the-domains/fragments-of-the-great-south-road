@@ -1,21 +1,4 @@
-name: Ghost South Road
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.22982
-title: GHOST SOUTH ROAD
-description: ''
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -27,4 +10,25 @@ color:
   lightness: 0.3125
   saturation: 0.460501509020105
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Ghost South Road
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Facebook Feed
+    url: 'https://www.facebook.com/greatsouthroadfragments/'
+    type: external
+favicon: null
+title: GHOST SOUTH ROAD
+description: ''
 purpose: []
