@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Facebook Feed
-    url: 'https://www.facebook.com/greatsouthroadfragments/'
-    type: external
 favicon: null
 title: GHOST SOUTH ROAD
 description: ''
